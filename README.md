@@ -37,7 +37,10 @@ ARIMA 모형으로 MSE 170.10, MAE 9.30 값을 얻었다.
 
 ------
 
-## 제안서\
+## 제안서
+
+[기계학습프로그래밍 제안서.docx](https://github.com/hyeokinen/ML-Project/files/9989763/default.docx)
+
 
 
 
