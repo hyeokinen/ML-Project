@@ -1,5 +1,5 @@
 # ML-Project
-###기계학습 프로그래밍 기말프로젝트
+### 기계학습 프로그래밍 기말프로젝트
 
 
 -----
@@ -28,11 +28,11 @@ ARIMA 모형으로 MSE 170.10, MAE 9.30 값을 얻었다.
 
 결과 데이터
 
-![1](https://user-images.githubusercontent.com/87744606/201329413-ccc58af4-15ba-42a0-9092-661257f00749.PNG)
-![2](https://user-images.githubusercontent.com/87744606/201329421-c698dea4-f10b-49b6-b045-81b1eb9e036a.PNG)
-![3](https://user-images.githubusercontent.com/87744606/201329425-7c79df69-9124-47cb-a34f-c6b41b5b1c86.PNG)
-![4](https://user-images.githubusercontent.com/87744606/201329432-9342fb62-dc5a-4fe1-8fcc-f0af8f30ac71.PNG)
-![5](https://user-images.githubusercontent.com/87744606/201329437-88e36b75-70ca-4d4d-bead-511295e62355.PNG)
+![1](https://user-images.githubusercontent.com/87744606/201329413-ccc58af4-15ba-42a0-9092-661257f00749.PNG)<br>
+![2](https://user-images.githubusercontent.com/87744606/201329421-c698dea4-f10b-49b6-b045-81b1eb9e036a.PNG)<br>
+![3](https://user-images.githubusercontent.com/87744606/201329425-7c79df69-9124-47cb-a34f-c6b41b5b1c86.PNG)<br>
+![4](https://user-images.githubusercontent.com/87744606/201329432-9342fb62-dc5a-4fe1-8fcc-f0af8f30ac71.PNG)<br>
+![5](https://user-images.githubusercontent.com/87744606/201329437-88e36b75-70ca-4d4d-bead-511295e62355.PNG)<br>
 
 
 ------
@@ -40,6 +40,13 @@ ARIMA 모형으로 MSE 170.10, MAE 9.30 값을 얻었다.
 ## 제안서
 
 [기계학습프로그래밍 제안서.docx](https://github.com/hyeokinen/ML-Project/files/9989763/default.docx)
+
+
+### 발표 자료
+
+[기계학습 프로로그래밍 기말 과제.pptx](https://github.com/hyeokinen/ML-Project/files/9989790/default.pptx)
+
+
 
 
 
